@@ -2,7 +2,7 @@
 void main()
 {
 int n,b=0,i,a[10];
-scanf("5d",&n);
+scanf("%d",&n);
 for(i=o;i<n;i++)
 {
 scanf("%d",&a[i]);
