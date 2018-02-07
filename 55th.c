@@ -1,11 +1,11 @@
 #include<stdio.h>
 void main()
 {
-  int a,b,ans;
+  int a,b,n;
   printf("enter the numbers");
   scanf("%d%d",&a,&b);
-  ans=a*b;
-  if(ans%2==0)
+  n=a*b;
+  if(n%2==0)
   {
     printf("even");
   }
